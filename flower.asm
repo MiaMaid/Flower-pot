@@ -1,5 +1,5 @@
 section .data
-    msg db "А говорили, что не смогу!", 0xA
+    msg db "Bce цветы должны быть в гoршках", 0xA
     len equ $ - msg
 
 section .text
